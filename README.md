@@ -40,15 +40,10 @@ Designed in Altium with the following Design Rules:
 ## Gallery
 
 ### 3D Views
-*(Upload your 3D view images to the repo and link them here)*
-![Main Circuit 3D](images/main_3d.png)
-![IR Sensor 3D](images/sensor_3d.png)
 
 ### Real Implementations
-*(Upload your actual printed circuit images here)*
-![Actual Main PCB](images/actual_main.jpg)
-![Actual IR Sensor](images/actual_sensor.jpg)
 
-## 👨‍🎓 Author
+## Author
 * **Đồng Nguyễn Khánh Duy** - Student ID: 2352172
 * Faculty of Computer Science and Engineering, HCMUT
+
